@@ -3,7 +3,7 @@
 - cd into new project folder
 - run `npm install` to install dependencies
 - rename template.env to .env
-- make sure to replace MONGODB_URI with a working Mongo URL
+- make sure to replace MONGODB_URL with a working Mongo URL
 - enjoy!
 
 
